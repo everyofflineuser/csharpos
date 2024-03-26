@@ -1,0 +1,12 @@
+F:\OS\kernel\src\bin\Debug\net6.0\src.deps.json
+F:\OS\kernel\src\bin\Debug\net6.0\src.dll
+F:\OS\kernel\src\bin\Debug\net6.0\src.pdb
+F:\OS\kernel\src\obj\Debug\net6.0\src.csproj.AssemblyReference.cache
+F:\OS\kernel\src\obj\Debug\net6.0\src.GeneratedMSBuildEditorConfig.editorconfig
+F:\OS\kernel\src\obj\Debug\net6.0\src.AssemblyInfoInputs.cache
+F:\OS\kernel\src\obj\Debug\net6.0\src.AssemblyInfo.cs
+F:\OS\kernel\src\obj\Debug\net6.0\src.csproj.CoreCompileInputs.cache
+F:\OS\kernel\src\obj\Debug\net6.0\src.dll
+F:\OS\kernel\src\obj\Debug\net6.0\refint\src.dll
+F:\OS\kernel\src\obj\Debug\net6.0\src.pdb
+F:\OS\kernel\src\obj\Debug\net6.0\ref\src.dll
